@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Blackjack</string>
+    <string name="money">%d €</string>
+    <string name="turn">Tour : %d</string>
+    <string name="hotness">Chaleur du sabot : %d</string>
+</resources>
